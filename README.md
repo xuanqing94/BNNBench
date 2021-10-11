@@ -4,8 +4,9 @@
 Run following commands in bash shell:
 
 ```bash
+# python >= 3.7 required
 pip install -r requirements.txt
-pip install -e .
+pip install .
 ```
 
 

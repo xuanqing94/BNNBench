@@ -2,3 +2,4 @@ tifffile
 imageio
 Pillow
 Augmentor
+scipy
